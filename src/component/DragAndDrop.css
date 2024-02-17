@@ -1,0 +1,28 @@
+body{
+    padding: 50px;
+    margin: 20px;
+}
+.container{
+    background-color: aqua;
+    width: 500px;
+    height: 300px;
+    border: 1px dashed black;
+}
+
+button{
+    cursor: pointer;
+    width: 100px;
+    height: 33px;
+    font-size: larger;
+    background-color: chocolate;
+    border-radius: 8px;
+}
+label{
+    /* width: 100px;
+    height: 50px; */
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    background-color:khaki;
+}
